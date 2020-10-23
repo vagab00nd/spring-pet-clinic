@@ -1,4 +1,4 @@
-package com.bky.springpetclinic.model;
+package com.bky.sgfpetclinic.model;
 
 import lombok.Getter;
 import lombok.Setter;
