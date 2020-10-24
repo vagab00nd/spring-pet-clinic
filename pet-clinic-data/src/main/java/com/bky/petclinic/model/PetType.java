@@ -1,10 +1,10 @@
-package com.bky.sgfpetclinic.model;
+package com.bky.petclinic.model;
 
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class PetType {
+public class PetType extends BaseEntity{
     private String name;
 }

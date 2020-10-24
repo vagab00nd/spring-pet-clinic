@@ -1,4 +1,4 @@
-package com.bky.sgfpetclinic.model;
+package com.bky.petclinic.model;
 
 public class Vet extends Person{
 }

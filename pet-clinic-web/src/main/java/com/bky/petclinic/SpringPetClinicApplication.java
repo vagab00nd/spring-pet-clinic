@@ -1,4 +1,4 @@
-package com.bky.sfgpetclinic;
+package com.bky.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
